@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to ethnocity repository! 👋🏻</h1>
 
-![Screenshot](https://user-images.githubusercontent.com/50922642/155069428-6b5202e2-0320-428f-b14a-99a6a596dab7.jpg)
+![Screenshot](https://github.com/kdandy/ethnocity/assets/50922642/4b94b858-cd50-4964-8c4e-76a5b3a6366f)
 
 <p></p>
 

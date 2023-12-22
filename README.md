@@ -30,13 +30,13 @@
 <p></p>
 
 <h2 id="about">🐱‍🏍 About ethnocity</h2>
-A free open-source website template and production ready to start your startup, social media or portfolio website easily and blazingly fast by just changing the assets and text
+Enthocity: Your AI guide to cultural exploration. Uncover stories, connect with diverse cultures. Let's embark on this enriching journey together!
 
 <p></p>
 
 <h2 id="demo">🏠 Demo Page</h2>
 
-You can find and view the demo in [here](https://cloudwarehouse.netlify.app/)
+You can find and view the demo in [here](https://ethnocity.vercel.app/)
 
 <p></p>
 
@@ -64,16 +64,26 @@ You guys can support me on the tracteer platform! Your support will be very help
 
 <h2 id="contribution">🤝 Contribution</h2>
 
-I really appreciate contributions, issues and feature requests because this application is far from perfect. Feel free to pull requests and make changes to this project.
+This project is a collaborative effort aimed at creating an application that strives for perfection. While I initially developed this project myself, I acknowledge that there are numerous features and areas that can be enhanced and improved.
 
-Since I finished this project myself, but there are many features and many things that can be improved, I really appreciate your help.
+I truly value any contributions, issues, and feature requests from individuals who are passionate about making this application the best it can be. Whether it's through pull requests or suggesting changes, your input is highly appreciated.
+
+Contributors:
+
+Dandy Faishal Fahmi
+Enzokulin Samsidan
+Sulhan Fuadi
+
+By working together, we can make significant advancements and create an exceptional experience for our users. Join us in shaping the future of this project and let's bring it to new heights!
+
+Thank you for your interest and support in this endeavor.
 
 <p></p>
 
 <h2 id="license">📝 License</h2>
 
 - Copyright © 2023 Tim Maba Masih Pemula
-- Cloudwarehouse is an open-source web application licensed under the MIT license
+- Ethnocity is an open-source web application licensed under the MIT license
 
 ---
 

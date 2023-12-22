@@ -70,9 +70,7 @@ I truly value any contributions, issues, and feature requests from individuals w
 
 Contributors:
 
-Dandy Faishal Fahmi
-Enzokulin Samsidan
-Sulhan Fuadi
+Dandy Faishal Fahmi, Enzokulin Samsidan, Sulhan Fuadi
 
 By working together, we can make significant advancements and create an exceptional experience for our users. Join us in shaping the future of this project and let's bring it to new heights!
 
